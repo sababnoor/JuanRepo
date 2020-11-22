@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606055038 source:e:\cs\cscw\calculators\main.cpp
+	<iostream>
+	<string>
+
