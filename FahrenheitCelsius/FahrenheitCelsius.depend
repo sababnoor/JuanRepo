@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608470922 source:e:\cs\cscw\fahrenheitcelsius\main.cpp
+	<iostream>
+	<String>
+
